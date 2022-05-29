@@ -1,2 +1,4 @@
 $ cat .gitattributes*.js linguist-language=Python
 *.html linguist-language=Python
+$ cat .gitattributes*.js linguist-language=RobotFramework
+*.css linguist-language=RobotFramework
