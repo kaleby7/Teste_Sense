@@ -1,4 +1,4 @@
 $ cat .gitattributes
-*.xml linguist-language=Python
-*.html linguist-language=RobotFramework
+*.xml linguist-language=RobotFramework
+*.html linguist-language=Python
 
