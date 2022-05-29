@@ -34,4 +34,4 @@ OBS: as Variavéis e Keywords estão na pasta "resources" no arquivo "sauce.reso
 
 MIT License
 
-Copyright (c) <2022><Kaleby Freire>
+Copyright (c) <2022> <Kaleby Freire>
