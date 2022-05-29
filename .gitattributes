@@ -1,2 +1,4 @@
 * linguist-vendored
 *.HTML linguist-vendored=false
+
+*.robotframework linguist-detectable=true
