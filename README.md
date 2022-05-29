@@ -23,6 +23,7 @@ No VSCode acesse a pasta "TestCases" no arquivo "testesense.robot" e abra o term
 OBS: as Variavéis e Keywords estão na pasta "resources" no arquivo "sauce.resource".
 
 ### Ferramentas Utilizadas
+
 | RobotFramework | Python | Selenium |
 |---         |---   |---|
 ---
