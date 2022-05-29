@@ -21,8 +21,8 @@ $ git clone <https://github.com/kaleby7/Teste_Sense.git>
 
 No VSCode acesse a pasta "TestCases" no arquivo "testesense.robot" e abra o terminal do VS e digite: robot -d results testesense.robot para execução da automação
 OBS: as Variavéis e Keywords estão na pasta "resources" no arquivo "sauce.resource".
-
-### Ferramentas Utilizadas
+```
+### 🛠 Tecnologias
 
 | RobotFramework | Python | Selenium |
 |---         |---   |---|
